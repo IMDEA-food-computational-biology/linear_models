@@ -1,0 +1,49 @@
+sample_id,study_id,treatment,origin_type,origin_name,GSM,time_point,concentration,node_id
+1034,40,"[6]-shogaol activates","cell line",HCT-116,1372850,"24 hours","20 µM",6
+1040,40,"[6]-shogaol activates","cell line",HCT-116,1372849,"24 hours","20 µM",6
+1046,40,"[6]-shogaol activates","cell line",HCT-116,1372848,"24 hours","20 µM",6
+1048,40,"[6]-shogaol activates","cell line",HCT-116,1372851,"24 hours","20 µM",6
+4197,123,17-aag,"cell line",LNCaP,1357414,"6 hours","40 nM",7
+4217,123,17-aag,"cell line",LNCaP,1357411,"6 hours","40 nM",7
+4222,123,17-aag,"cell line",LNCaP,1357410,"6 hours","40 nM",7
+4223,123,17-aag,"cell line",LNCaP,1357413,"6 hours","40 nM",7
+4230,123,17-aag,"cell line",LNCaP,1357412,"6 hours","40 nM",7
+4231,123,17-aag,"cell line",LNCaP,1357415,"6 hours","40 nM",7
+1613,60,1beta-hydroxyalantolactone,"cell line",MCF7,2286293,"12 hours","10 µM",10
+1719,60,1beta-hydroxyalantolactone,"cell line",MCF7,2286292,"12 hours","10 µM",10
+910,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419059,"4 hours",-,11
+914,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419042,"4 hours",-,11
+920,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419061,"4 hours",-,11
+921,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419041,"4 hours",-,11
+940,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419043,"4 hours",-,11
+941,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419060,"4 hours",-,11
+1619,60,6-gingerol,"cell line",MCF7,2286373,"12 hours","10 µM",15
+1703,60,6-gingerol,"cell line",MCF7,2286372,"12 hours","10 µM",15
+4703,145,leptin,tissue,PBMCs,908206,"2 weeks",-,256
+4722,145,leptin,tissue,PBMCs,908215,"2 weeks",-,256
+4725,145,leptin,tissue,PBMCs,908149,"2 weeks",-,256
+4726,145,leptin,tissue,PBMCs,908175,"2 weeks",-,256
+4736,145,leptin,tissue,PBMCs,908158,"2 weeks",-,256
+4739,145,leptin,tissue,PBMCs,908118,"2 weeks",-,256
+4743,145,leptin,tissue,PBMCs,908218,"2 weeks",-,256
+4747,145,leptin,tissue,PBMCs,908161,"2 weeks",-,256
+4784,145,leptin,tissue,PBMCs,908191,"2 weeks",-,256
+4787,145,leptin,tissue,PBMCs,908211,"2 weeks",-,256
+4792,145,leptin,tissue,PBMCs,908228,"2 weeks",-,256
+4799,145,leptin,tissue,PBMCs,908137,"2 weeks",-,256
+4805,145,leptin,tissue,PBMCs,908134,"2 weeks",-,256
+4806,145,leptin,tissue,PBMCs,908171,"2 weeks",-,256
+4809,145,leptin,tissue,PBMCs,908194,"2 weeks",-,256
+4810,145,leptin,tissue,PBMCs,908154,"2 weeks",-,256
+264,10,"withaferin A","cell line",MDA-MB-231,1281069,"72 hours","700 nM",510
+265,10,"withaferin A","cell line",MCF-7,1281063,"72 hours","700 nM",510
+267,10,"withaferin A","cell line",MDA-MB-231,1281067,"72 hours","700 nM",510
+268,10,"withaferin A","cell line",MCF-7,1281061,"72 hours","700 nM",510
+272,10,"withaferin A","cell line",MCF-7,1281062,"72 hours","700 nM",510
+273,10,"withaferin A","cell line",MDA-MB-231,1281068,"72 hours","700 nM",510
+918,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419068,"24 hours",-,514
+924,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419050,"24 hours",-,514
+925,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419070,"24 hours",-,514
+929,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419069,"24 hours",-,514
+935,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419052,"24 hours",-,514
+937,32,"4-didehydroretinoic acid","cell type",Keratinocytes,1419051,"24 hours",-,514
